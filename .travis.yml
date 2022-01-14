@@ -1,5 +1,5 @@
 group: dev
-dist: bionic
+dist: focal
 
 services:
   - elasticsearch
